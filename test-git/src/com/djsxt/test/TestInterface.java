@@ -4,5 +4,5 @@ public interface TestInterface
 {
 	void m();
 	void n();
-
+	void c();
 }
