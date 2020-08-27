@@ -18,7 +18,7 @@ public class Test implements TestInterface
 	@Override
 	public void c() {
 		// TODO Auto-generated method stub
-
+		System.out.println("c");
 	}
 
 }
